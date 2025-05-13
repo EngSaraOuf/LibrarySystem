@@ -1,0 +1,3 @@
+Darkmans	20.
+ALittleLife	50.
+BrokenGlass	100.
